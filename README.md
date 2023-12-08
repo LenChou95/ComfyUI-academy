@@ -73,4 +73,4 @@ https://github.com/C0nsumption/Consume-ComfyUI-Workflows
 ### 关键帧打点设置重绘强度
 插件：https://github.com/Scholar01/ComfyUI-Keyframe
 
-视频教程：https://www.douyin.com/user/MS4wLjABAAAAwpv6ZZRStHxCNFxBXEEujSev0tU59BcPNiytUlieWLh2sRYz16cE8F1GDYpWmRV0
+视频教程:https://www.douyin.com/user/MS4wLjABAAAAwpv6ZZRStHxCNFxBXEEujSev0tU59BcPNiytUlieWLh2sRYz16cE8F1GDYpWmRV0?modal_id=7306779633788194089

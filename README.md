@@ -49,6 +49,10 @@ git clone https://github.com/Stability-AI/stability-ComfyUI-nodes.git
 #手动 install 缺失模块
 pip install insightface lpips numba onnxruntime onnxruntime-gpu
 ```
+
+## Checkpoint & Lora 资源
+https://civitai.com/
+
 ## Workflow 资源获取
 https://comfyworkflows.com/
 

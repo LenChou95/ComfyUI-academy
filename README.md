@@ -1,8 +1,10 @@
- 
- ## ComfyUI 安装
-程序安装：https://github.com/comfyanonymous/ComfyUI
+## 文档
+ComfyUI 社区手册：https://blenderneko.github.io/ComfyUI-docs/
+中文社区进阶手册：https://www.comflowy.com/zh-CN
 
-文档：https://blenderneko.github.io/ComfyUI-docs/
+
+## ComfyUI 安装
+程序安装：https://github.com/comfyanonymous/ComfyUI
 
 节点 nodes 查询：https://ltdrdata.github.io/
 
